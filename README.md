@@ -10,5 +10,4 @@
 - Compatible with all mobile devices.
 
 💙 Join the channel to see more videos like this. [CodingGujarat](https://www.youtube.com/@codinggujarat)
-
 ![preview img](/preview.png)
