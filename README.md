@@ -1,5 +1,5 @@
 # Animated Login Form
-## [Watch it on youtube](https://youtu.be/b7gc_4TrXkg)
+## [Live Preview](https://youtu.be/b7gc_4TrXkg)
 ### Animated Login Form
 
 - Animated Login Form Using HTML CSS & JavaScript
